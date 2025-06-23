@@ -7,5 +7,5 @@
 ## 🛠️ Tech Stack
 
 - Kotlin
-- Jetpack Compose (Material 3)
+- Jetpack Compose
 - ViewModel & State management
