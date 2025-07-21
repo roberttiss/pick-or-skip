@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<questions>
+
+    <!--EASY-->
+    <question level="EASY">
+        <text>Qual a capital do Brasil?</text>
+        <answers>
+            <answer id="1" isCorrect="false">Salvador</answer>
+            <answer id="2" isCorrect="false">São Paulo</answer>
+            <answer id="3" isCorrect="false">Porto Alegre</answer>
+            <answer id="4" isCorrect="true">Brasilia</answer>
+        </answers>
+    </question>
+    <question level="EASY">
+        <text>Qual é o maior planeta do sistema solar?</text>
+        <answers>
+            <answer id="1" isCorrect="false">Terra</answer>
+            <answer id="2" isCorrect="true">Júpiter</answer>
+            <answer id="3" isCorrect="false">Vênus</answer>
+            <answer id="4" isCorrect="false">Marte</answer>
+        </answers>
+    </question>
+    <question level="EASY">
+        <text>Que cor resulta da mistura de azul com amarelo?</text>
+        <answers>
+            <answer id="1" isCorrect="false">Vermelho</answer>
+            <answer id="2" isCorrect="false">Roxo</answer>
+            <answer id="3" isCorrect="true">Verde</answer>
+            <answer id="4" isCorrect="false">Laranja</answer>
+        </answers>
+    </question>
+    <question level="EASY">
+        <text>Quantos lados tem um quadrado?</text>
+        <answers>
+            <answer id="1" isCorrect="true">4</answer>
+            <answer id="2" isCorrect="false">3</answer>
+            <answer id="3" isCorrect="false">5</answer>
+            <answer id="4" isCorrect="false">6</answer>
+        </answers>
+    </question>
+    <question level="EASY">
+        <text>Qual animal é conhecido como o rei da selva?</text>
+        <answers>
+            <answer id="1" isCorrect="false">Tigre</answer>
+            <answer id="2" isCorrect="true">Leão</answer>
+            <answer id="3" isCorrect="false">Elefante</answer>
+            <answer id="4" isCorrect="false">Girafa</answer>
+        </answers>
+    </question>
+    <question level="EASY">
+        <text>Qual é o símbolo químico da água?</text>
+        <answers>
+            <answer id="1" isCorrect="false">CO2</answer>
+            <answer id="2" isCorrect="true">H2O</answer>
+            <answer id="3" isCorrect="false">O2</answer>
+            <answer id="4" isCorrect="false">NaCl</answer>
+        </answers>
+    </question>
+    <question level="EASY">
+        <text>Qual desses é um instrumento musical de corda?</text>
+        <answers>
+            <answer id="1" isCorrect="true">Violão</answer>
+            <answer id="2" isCorrect="false">Flauta</answer>
+            <answer id="3" isCorrect="false">Bateria</answer>
+            <answer id="4" isCorrect="false">Trompete</answer>
+        </answers>
+    </question>
+    <question level="EASY">
+        <text>Que animal bota ovos?</text>
+        <answers>
+            <answer id="1" isCorrect="true">Galinha</answer>
+            <answer id="2" isCorrect="false">Cachorro</answer>
+            <answer id="3" isCorrect="false">Leão</answer>
+            <answer id="4" isCorrect="false">Cavalo</answer>
+        </answers>
+    </question>
+    <question level="EASY">
+        <text>Quantos dias tem uma semana?</text>
+        <answers>
+            <answer id="1" isCorrect="false">5</answer>
+            <answer id="2" isCorrect="true">7</answer>
+            <answer id="3" isCorrect="false">6</answer>
+            <answer id="4" isCorrect="false">8</answer>
+        </answers>
+    </question>
+    <question level="EASY">
+        <text>Que estação do ano faz mais frio?</text>
+        <answers>
+            <answer id="1" isCorrect="false">Verão</answer>
+            <answer id="2" isCorrect="false">Outono</answer>
+            <answer id="3" isCorrect="true">Inverno</answer>
+            <answer id="4" isCorrect="false">Primavera</answer>
+        </answers>
+    </question>
+
+
+    <!--MEDIUM-->
+    <question level="MEDIUM">
+        <text>Qual é o menor país do mundo?</text>
+        <answers>
+            <answer id="1" isCorrect="false">Mônaco</answer>
+            <answer id="2" isCorrect="true">Vaticano</answer>
+            <answer id="3" isCorrect="false">San Marino</answer>
+            <answer id="4" isCorrect="false">Liechtenstein</answer>
+        </answers>
+    </question>
+    <question level="MEDIUM">
+        <text>Quem escreveu "Dom Casmurro"?</text>
+        <answers>
+            <answer id="1" isCorrect="true">Machado de Assis</answer>
+            <answer id="2" isCorrect="false">José de Alencar</answer>
+            <answer id="3" isCorrect="false">Graciliano Ramos</answer>
+            <answer id="4" isCorrect="false">Jorge Amado</answer>
+        </answers>
+    </question>
+    <question level="MEDIUM">
+        <text>Em que continente fica o Egito?</text>
+        <answers>
+            <answer id="1" isCorrect="false">Europa</answer>
+            <answer id="2" isCorrect="false">América</answer>
+            <answer id="3" isCorrect="true">África</answer>
+            <answer id="4" isCorrect="false">Ásia</answer>
+        </answers>
+    </question>
+    <question level="MEDIUM">
+        <text>Qual elemento tem o símbolo químico "Fe"?</text>
+        <answers>
+            <answer id="1" isCorrect="false">Ferro</answer>
+            <answer id="2" isCorrect="false">Flúor</answer>
+            <answer id="3" isCorrect="false">Fósforo</answer>
+            <answer id="4" isCorrect="true">Ferro</answer>
+        </answers>
+    </question>
+    <question level="MEDIUM">
+        <text>Qual a moeda oficial do Reino Unido?</text>
+        <answers>
+            <answer id="1" isCorrect="false">Euro</answer>
+            <answer id="2" isCorrect="true">Libra esterlina</answer>
+            <answer id="3" isCorrect="false">Dólar</answer>
+            <answer id="4" isCorrect="false">Franco</answer>
+        </answers>
+    </question>
+    <question level="MEDIUM">
+        <text>Quem foi o primeiro presidente do Brasil?</text>
+        <answers>
+            <answer id="1" isCorrect="false">Getúlio Vargas</answer>
+            <answer id="2" isCorrect="true">Deodoro da Fonseca</answer>
+            <answer id="3" isCorrect="false">Juscelino Kubitschek</answer>
+            <answer id="4" isCorrect="false">Marechal Floriano Peixoto</answer>
+        </answers>
+    </question>
+    <question level="MEDIUM">
+        <text>Quem pintou a Mona Lisa?</text>
+        <answers>
+            <answer id="1" isCorrect="false">Michelangelo</answer>
+            <answer id="2" isCorrect="true">Leonardo da Vinci</answer>
+            <answer id="3" isCorrect="false">Rafael</answer>
+            <answer id="4" isCorrect="false">Donatello</answer>
+        </answers>
+    </question>
+    <question level="MEDIUM">
+        <text>Qual é o maior oceano do mundo?</text>
+        <answers>
+            <answer id="1" isCorrect="false">Atlântico</answer>
+            <answer id="2" isCorrect="true">Pacífico</answer>
+            <answer id="3" isCorrect="false">Índico</answer>
+            <answer id="4" isCorrect="false">Ártico</answer>
+        </answers>
+    </question>
+    <question level="MEDIUM">
+        <text>Qual é a fórmula da área do triângulo?</text>
+        <answers>
+            <answer id="1" isCorrect="false">base + altura</answer>
+            <answer id="2" isCorrect="true">(base x altura) / 2</answer>
+            <answer id="3" isCorrect="false">base x altura</answer>
+            <answer id="4" isCorrect="false">(base + altura) / 2</answer>
+        </answers>
+    </question>
+    <question level="MEDIUM">
+        <text>Em que ano foi proclamada a independência do Brasil?</text>
+        <answers>
+            <answer id="1" isCorrect="true">1822</answer>
+            <answer id="2" isCorrect="false">1889</answer>
+            <answer id="3" isCorrect="false">1500</answer>
+            <answer id="4" isCorrect="false">1808</answer>
+        </answers>
+    </question>
+
+
+    <!--HARD-->
+    <question level="HARD">
+        <text>Quem foi o criador da teoria da relatividade?</text>
+        <answers>
+            <answer id="1" isCorrect="false">Isaac Newton</answer>
+            <answer id="2" isCorrect="true">Albert Einstein</answer>
+            <answer id="3" isCorrect="false">Niels Bohr</answer>
+            <answer id="4" isCorrect="false">Galileu Galilei</answer>
+        </answers>
+    </question>
+    <question level="HARD">
+        <text>Qual o nome do cientista que descobriu a penicilina?</text>
+        <answers>
+            <answer id="1" isCorrect="true">Alexander Fleming</answer>
+            <answer id="2" isCorrect="false">Louis Pasteur</answer>
+            <answer id="3" isCorrect="false">Marie Curie</answer>
+            <answer id="4" isCorrect="false">Charles Darwin</answer>
+        </answers>
+    </question>
+    <question level="HARD">
+        <text>Em que ano aconteceu a Revolução Francesa?</text>
+        <answers>
+            <answer id="1" isCorrect="false">1808</answer>
+            <answer id="2" isCorrect="false">1776</answer>
+            <answer id="3" isCorrect="false">1822</answer>
+            <answer id="4" isCorrect="true">1789</answer>
+        </answers>
+    </question>
+    <question level="HARD">
+        <text>Qual é a distância aproximada da Terra à Lua?</text>
+        <answers>
+            <answer id="1" isCorrect="false">384.400 km</answer>
+            <answer id="2" isCorrect="false">150.000 km</answer>
+            <answer id="3" isCorrect="false">1.000.000 km</answer>
+            <answer id="4" isCorrect="true">384.400 km</answer>
+        </answers>
+    </question>
+    <question level="HARD">
+        <text>Quem escreveu "Grande Sertão: Veredas"?</text>
+        <answers>
+            <answer id="1" isCorrect="false">Jorge Amado</answer>
+            <answer id="2" isCorrect="true">João Guimarães Rosa</answer>
+            <answer id="3" isCorrect="false">Machado de Assis</answer>
+            <answer id="4" isCorrect="false">Carlos Drummond de Andrade</answer>
+        </answers>
+    </question>
+    <question level="HARD">
+        <text>Qual é a principal função dos ribossomos?</text>
+        <answers>
+            <answer id="1" isCorrect="false">Produzir energia</answer>
+            <answer id="2" isCorrect="true">Sintetizar proteínas</answer>
+            <answer id="3" isCorrect="false">Fazer digestão celular</answer>
+            <answer id="4" isCorrect="false">Transportar oxigênio</answer>
+        </answers>
+    </question>
+    <question level="HARD">
+        <text>Qual é o elemento químico de número atômico 79?</text>
+        <answers>
+            <answer id="1" isCorrect="true">Ouro</answer>
+            <answer id="2" isCorrect="false">Prata</answer>
+            <answer id="3" isCorrect="false">Platina</answer>
+            <answer id="4" isCorrect="false">Cobre</answer>
+        </answers>
+    </question>
+    <question level="HARD">
+        <text>Em que país nasceu o físico Nikola Tesla?</text>
+        <answers>
+            <answer id="1" isCorrect="false">Sérvia</answer>
+            <answer id="2" isCorrect="true">Croácia</answer>
+            <answer id="3" isCorrect="false">Estados Unidos</answer>
+            <answer id="4" isCorrect="false">Rússia</answer>
+        </answers>
+    </question>
+    <question level="HARD">
+        <text>Qual é o nome da linha imaginária que divide a Terra em hemisfério norte e sul?</text>
+        <answers>
+            <answer id="1" isCorrect="false">Trópico de Capricórnio</answer>
+            <answer id="2" isCorrect="false">Trópico de Câncer</answer>
+            <answer id="3" isCorrect="true">Linha do Equador</answer>
+            <answer id="4" isCorrect="false">Meridiano de Greenwich</answer>
+        </answers>
+    </question>
+    <question level="HARD">
+        <text>Quem compôs a famosa "Ode à Alegria"?</text>
+        <answers>
+            <answer id="1" isCorrect="false">Mozart</answer>
+            <answer id="2" isCorrect="false">Bach</answer>
+            <answer id="3" isCorrect="true">Beethoven</answer>
+            <answer id="4" isCorrect="false">Tchaikovsky</answer>
+        </answers>
+    </question>
+
+</questions>

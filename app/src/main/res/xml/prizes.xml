@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<prizes>
+    <prize question="1"  value="500"     checkpoint="false"/>
+    <prize question="2"  value="1000"    checkpoint="false"/>
+    <prize question="3"  value="2000"    checkpoint="false"/>
+    <prize question="4"  value="3000"    checkpoint="false"/>
+    <prize question="5"  value="5000"    checkpoint="true"/>
+    <prize question="6"  value="10000"   checkpoint="false"/>
+    <prize question="7"  value="15000"   checkpoint="false"/>
+    <prize question="8"  value="20000"   checkpoint="false"/>
+    <prize question="9"  value="30000"   checkpoint="false"/>
+    <prize question="10" value="50000"   checkpoint="true"/>
+    <prize question="11" value="100000"  checkpoint="false"/>
+    <prize question="12" value="150000"  checkpoint="false"/>
+    <prize question="13" value="300000"  checkpoint="false"/>
+    <prize question="14" value="500000"  checkpoint="false"/>
+    <prize question="15" value="1000000" checkpoint="true"/>
+</prizes>
