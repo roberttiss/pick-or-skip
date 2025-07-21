@@ -110,19 +110,3 @@ fun LifelineButton(
         )
     }
 }
-
-@Preview(
-    showBackground = false,
-    widthDp = 411,
-    heightDp = 891,
-    name = "Pixel 4"
-)
-@Composable
-fun LifelineCardPreview() {
-    LifelineCard(
-        canEliminate = true,
-        canSkip = false,
-        canAskAudience = true,
-        onLifelineClicked = {}
-    )
-}

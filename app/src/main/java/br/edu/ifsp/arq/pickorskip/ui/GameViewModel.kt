@@ -23,9 +23,6 @@ class GameViewModel(
     var currentQuestionStep by mutableIntStateOf(manager.getCurrentQuestionStep())
         private set
 
-    var isCheckpoint by mutableStateOf(manager.isCheckpoint)
-        private set
-
     var prize by mutableIntStateOf(manager.prize)
         private set
 
@@ -33,8 +30,8 @@ class GameViewModel(
         private set
 
     var canSkip by mutableStateOf(manager.canSkip)
-
         private set
+    
     var canAskAudience by mutableStateOf(manager.canAskAudience)
         private set
 
@@ -82,7 +79,6 @@ class GameViewModel(
         gameResult = manager.gameResult
         currentQuestion = manager.getCurrentQuestion()
         currentQuestionStep = manager.getCurrentQuestionStep()
-        isCheckpoint = manager.isCheckpoint
         prize = manager.prize
         canEliminate = manager.canEliminate
         canSkip = manager.canSkip

@@ -17,14 +17,11 @@ class GameManager(
     var canAskAudience = true
         private set
 
+    private var currentQuestionIndex: Int = 0
+
+    private var correctAnswers = 0
+
     private var questions = setQuestions()
-
-    val isCheckpoint: Boolean
-        get() {
-            val prizeStep = prizeSteps.getOrNull(currentQuestionIndex)
-
-            return prizeStep?.checkpoint == true
-        }
 
     val prize: Int
         get() {
@@ -33,12 +30,8 @@ class GameManager(
                 GameResult.WIN -> getPrizeForWin()
                 GameResult.QUIT -> getPrizeForQuit()
                 GameResult.GAME_OVER -> getPrizeForFail()
-                else -> 0
             }
         }
-
-    private var currentQuestionIndex: Int = 0
-    private var correctAnswers = 0
 
     private fun setQuestions(): List<Question> {
         val easy = allQuestions.filter { it.level == QuestionLevel.EASY }.shuffled().take(5)
@@ -76,8 +69,7 @@ class GameManager(
 
         val question = getCurrentQuestion() ?: return false
 
-        val incorrectAnswers =
-            question.answers.filter { !it.isCorrect && !it.isEliminated }.shuffled()
+        val incorrectAnswers = question.answers.filter { !it.isCorrect && !it.isEliminated }.shuffled()
         incorrectAnswers.take(2).forEach { it.isEliminated = true }
 
         canEliminate = false
