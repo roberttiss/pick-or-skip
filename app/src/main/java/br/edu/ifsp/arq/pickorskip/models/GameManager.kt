@@ -88,6 +88,8 @@ class GameManager(
         if (!canSkip) return false
 
         currentQuestionIndex++
+        correctAnswers++
+
         if (currentQuestionIndex >= questions.size)
             gameResult = GameResult.WIN
 
@@ -129,7 +131,6 @@ class GameManager(
     }
 
     fun quitGame() {
-        resetGame()
         gameResult = GameResult.QUIT
     }
 

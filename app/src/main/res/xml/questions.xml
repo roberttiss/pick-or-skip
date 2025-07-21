@@ -126,7 +126,7 @@
     <question level="MEDIUM">
         <text>Qual elemento tem o símbolo químico "Fe"?</text>
         <answers>
-            <answer id="1" isCorrect="false">Ferro</answer>
+            <answer id="1" isCorrect="false">Zinco</answer>
             <answer id="2" isCorrect="false">Flúor</answer>
             <answer id="3" isCorrect="false">Fósforo</answer>
             <answer id="4" isCorrect="true">Ferro</answer>
@@ -219,7 +219,7 @@
     <question level="HARD">
         <text>Qual é a distância aproximada da Terra à Lua?</text>
         <answers>
-            <answer id="1" isCorrect="false">384.400 km</answer>
+            <answer id="1" isCorrect="false">385.400 km</answer>
             <answer id="2" isCorrect="false">150.000 km</answer>
             <answer id="3" isCorrect="false">1.000.000 km</answer>
             <answer id="4" isCorrect="true">384.400 km</answer>
