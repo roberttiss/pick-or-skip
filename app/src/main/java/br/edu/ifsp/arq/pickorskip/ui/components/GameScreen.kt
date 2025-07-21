@@ -19,8 +19,8 @@ import androidx.compose.ui.unit.dp
 import br.edu.ifsp.arq.pickorskip.R
 import br.edu.ifsp.arq.pickorskip.models.enums.GameResult
 import br.edu.ifsp.arq.pickorskip.models.enums.Lifeline
-import br.edu.ifsp.arq.pickorskip.ui.theme.mainBackgroundColor
 import br.edu.ifsp.arq.pickorskip.ui.GameViewModel
+import br.edu.ifsp.arq.pickorskip.ui.theme.mainBackgroundColor
 
 @Composable
 fun GameScreen() {

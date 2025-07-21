@@ -1,10 +1,9 @@
 package br.edu.ifsp.arq.pickorskip.utils
 
 import android.content.Context
-import androidx.compose.runtime.toMutableStateList
 import br.edu.ifsp.arq.pickorskip.R
-import br.edu.ifsp.arq.pickorskip.models.GameManager
 import br.edu.ifsp.arq.pickorskip.models.Answer
+import br.edu.ifsp.arq.pickorskip.models.GameManager
 import br.edu.ifsp.arq.pickorskip.models.PrizeStep
 import br.edu.ifsp.arq.pickorskip.models.Question
 import br.edu.ifsp.arq.pickorskip.models.enums.QuestionLevel
